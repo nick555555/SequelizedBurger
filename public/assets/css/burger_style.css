@@ -1,0 +1,21 @@
+body {
+    background-color: beige;
+}
+
+.webTitle{
+    text-align: center;
+}
+
+.submitBox{
+    text-align: center;
+    background-color: red;
+}
+
+.pic{
+    text-align: center;
+}
+
+.image{
+    height: 50vh;
+    width: 50vw;
+}
